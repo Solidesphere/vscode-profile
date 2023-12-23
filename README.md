@@ -1,2 +1,2 @@
 # vscode-profile
-this my vscode profile (configuration) 🐱‍🏍
+this is my vscode profile (configuration) 🐱‍🏍
